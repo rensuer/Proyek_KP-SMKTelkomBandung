@@ -78,9 +78,9 @@ WSGI_APPLICATION = "web_eschoolSMK.wsgi.application"
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'db_web_eschool',   # Nama database yang kamu buat
-        'USER': 'root',            # Username MySQL (biasanya 'root')
-        'PASSWORD': '12345',            # Password MySQL (kosong jika default XAMPP)
+        'NAME': 'your_database',   # Nama database yang kamu buat
+        'USER': 'your_username_mysql',            # Username MySQL (biasanya 'root')
+        'PASSWORD': 'your_pass_mysql',            # Password MySQL (kosong jika default XAMPP)
         'HOST': 'localhost',       # Server MySQL (biasanya 'localhost')
         'PORT': '3306',            # Port MySQL (default: 3306)
     }
