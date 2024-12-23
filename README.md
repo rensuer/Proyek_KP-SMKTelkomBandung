@@ -7,7 +7,7 @@ Requirements:
 
 Konfigurasi Database:
 1. Ubah bagian DATABASES di settings.py, sesuaikan nama database, username, dan password (pastikan database di MySQL sudah dibuat sebelumnya)
-2. Lakukan python "manage.py makemigrations" dan "python manage.py migrate"
+2. Lakukan "python manage.py makemigrations" dan "python manage.py migrate"
 
 Konfigurasi Admin:
 1. Lakukan "python manage.py createsuperuser"
