@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
 
-    "appWeb_Eschool",
+    "appWeb_eschool",
 ]
 
 MIDDLEWARE = [

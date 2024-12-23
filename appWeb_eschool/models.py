@@ -1,9 +1,7 @@
-from django.db import models
 
 # Create your models here.
 from django.db import models
 
-# Create your models here.
 
 class InfoEschool (models.Model):
     nama = models.CharField(max_length=150)
