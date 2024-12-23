@@ -13,4 +13,5 @@ Konfigurasi Admin:
 1. Lakukan "python manage.py createsuperuser"
 2. Kemudian isi username dan password yang diinginkan untuk login admin.
 
+Setelah konfigurasi diatas sudah dilakukan maka proyek dapat dijalankan menggunakan "python manage.py runserver"
 
